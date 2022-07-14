@@ -1,0 +1,35 @@
+_repo: Philosophical-transactions-Giving-some-account-of-the-present-undertakings-studies-and-labour__68412
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Society, Royal
+    gutenberg_agent_id: '54762'
+    url: http://www.gutenberg.org/2009/agents/54762
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-06-26'
+identifiers:
+  gutenberg: '68412'
+language: en
+pgterms:marc904: https://archive.org/details/philosophicaltra5021roya/page/n5/mode/2up
+pgterms:marc905: 20160807123754society
+pgterms:marc906: '1759'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :L. Davis and C. Reymers,1759.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Philosophical transactions,: Giving some account of the present undertakings,
+  studies, and labours of the ingenious, in many considerable parts of the world.
+  Vol. L. Part II'
+url: http://www.gutenberg.org/ebooks/68412
