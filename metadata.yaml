@@ -5,6 +5,9 @@ contributor:
     agent_name: Society, Royal
     gutenberg_agent_id: '54762'
     url: http://www.gutenberg.org/2009/agents/54762
+covers:
+- cover_type: archival
+  image_path: 68412-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68412#Philosophical-transactions-Giving-some-account-of-the-present-undertakings-studies-and-labour_
 gutenberg_issued: '2022-06-26'
 identifiers:
   gutenberg: '68412'
